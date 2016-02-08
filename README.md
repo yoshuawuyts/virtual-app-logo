@@ -12,7 +12,7 @@
   height="100"
   style="max-width: 100%"
   data-canonical-src="https://github.com/yoshuawuyts/virtual-app-logo"
-  src="https://raw.githubusercontent.com/yoshuawuyts/virtual-app-logo/512.png">
+  src="https://raw.githubusercontent.com/yoshuawuyts/virtual-app-logo/master/512.png">
 ```
 
 ## License
